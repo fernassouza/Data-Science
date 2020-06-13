@@ -11,14 +11,14 @@ Meu Portfólio de Data Science
 
 Experiência:
 
-My credentials include a .
+Formação: Formado em Sistemas de Informação pela Faculdade Impacta Tecnoliga. Cursando Data Science e Machile Learning.
 
 **Background in:** .
 
 **Links:**
 * [Blog]()
 * [LinkedIn](https://www.linkedin.com/in/fernando-souza-7b980123/)
-* [Medium](https://www.medium.com)
+* [Medium](https://medium.com/@fernassouza)
 
 
 ## Projetos:
