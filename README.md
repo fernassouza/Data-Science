@@ -24,7 +24,7 @@ My credentials include a .
 ## Projetos:
 Veja os tutoriais:
 
-* **Análise dos Dados do Airbnb - Londres** 
+* **Análise dos Dados do Airbnb - Londres** https://bit.ly/3fgv09S
 
 
 ---
