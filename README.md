@@ -11,7 +11,7 @@ Meu Portfólio de Data Science
 
 Experiência:
 
-Formação: Formado em Sistemas de Informação pela Faculdade Impacta Tecnoliga. Cursando Data Science e Machile Learning.
+Formação: Formado em Sistemas de Informação pela Faculdade Impacta Tecnoliga. Cursando Data Science Inteligência Artificial e Machile Learning.
 
 **Background in:** .
 
@@ -24,6 +24,7 @@ Formação: Formado em Sistemas de Informação pela Faculdade Impacta Tecnoliga
 Veja os tutoriais:
 
 * **Análise dos Dados do Airbnb - Londres** https://bit.ly/3fgv09S
+* **Análise da Violência no Rio de Janeiro** https://bit.ly/2VyBSIA
 
 
 ---
