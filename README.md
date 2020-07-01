@@ -16,7 +16,6 @@ Formação: Formado em Sistemas de Informação pela Faculdade Impacta Tecnoliga
 **Background in:** .
 
 **Links:**
-* [Blog]()
 * [LinkedIn](https://www.linkedin.com/in/fernando-souza-7b980123/)
 * [Medium](https://medium.com/@fernassouza)
 
