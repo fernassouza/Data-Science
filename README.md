@@ -21,7 +21,7 @@ Formação: Formado em Sistemas de Informação pela Faculdade Impacta Tecnoliga
 
 
 ## Projetos:
-Veja os tutoriais:
+Veja as análises:
 
 * **Análise dos Dados do Airbnb - Londres** https://bit.ly/3fgv09S
 * **Análise da Violência no Rio de Janeiro** https://bit.ly/2VyBSIA
