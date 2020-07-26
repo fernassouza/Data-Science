@@ -9,7 +9,7 @@ Meu Portfólio de Data Science
 # Fernando Souza
 <sub>*Data Scientist* </sub>
 
-Experiência: Analista de suporte.
+Experiência: Atudando como analista de suporte na Secretária de Estado da Saúde de São Paulo.
 
 Formação: Formado em Sistemas de Informação pela Faculdade Impacta Tecnoliga. Cursando Data Science Inteligência Artificial e Machile Learning.
 
@@ -23,9 +23,8 @@ Formação: Formado em Sistemas de Informação pela Faculdade Impacta Tecnoliga
 ## Projetos:
 Veja as análises:
 
-* **Análise Covid-19** https://bit.ly/2CP4maH
-* **Análise dos Dados do Airbnb - Londres** https://bit.ly/3fgv09S
-* **Análise da Violência no Rio de Janeiro** https://bit.ly/2VyBSIA
-
+* **Projeto 1 - Análise dos Dados do Airbnb - Londres** https://bit.ly/3fgv09S
+* **Projeto 2 - Análise da Violência no Rio de Janeiro** https://bit.ly/2VyBSIA
+* **Projeto 3 - Análise Covid-19** https://bit.ly/2CP4maH
 
 ---
