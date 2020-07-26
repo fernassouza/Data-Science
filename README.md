@@ -25,6 +25,6 @@ Veja as análises:
 
 * **Projeto 1 - Análise dos Dados do Airbnb - Londres** https://bit.ly/3fgv09S
 * **Projeto 2 - Análise da Violência no Rio de Janeiro** https://bit.ly/2VyBSIA
-* **Projeto 3 - Análise Covid-19** https://bit.ly/2CP4maH
+* **Projeto 3 - Análise Covid-19 A Pandemia** https://bit.ly/2CP4maH
 
 ---
