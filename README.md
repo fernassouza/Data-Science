@@ -11,7 +11,7 @@ Meu Portfólio de Data Science
 
 Experiência: Atudando como analista de suporte na Secretária de Estado da Saúde de São Paulo.
 
-Formação: Formado em Sistemas de Informação pela Faculdade Impacta Tecnoliga. Cursando Data Science Inteligência Artificial e Machile Learning.
+Formação: Formado em Sistemas de Informação pela Faculdade Impacta Tecnoliga. Cursando Data Science, Inteligência Artificial e Machile Learning.
 
 **Background in:** .
 
